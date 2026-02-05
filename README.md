@@ -1,17 +1,17 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#FF69B4;">Saeed Beheshti</span></h1>
-<h3 align="center">💻 Backend Developer | 🐍 Python | ⚡ Flask & FastAPI | Problem Solver</h3>
+<h1 align="center">👋 Hello, I'm <span style="color:#FF4500;">Saeed Beheshti</span></h1>
+<h3 align="center">💻 Backend Developer | ⚡ Flask & FastAPI | 🐍 Python | Problem Solver</h3>
 
 ---
 
-## 🛠️ My Skills
+## 🎨 My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-90%25-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-65%25-FF69B4?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-65%25-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-60%25-FF69B4?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-70%25-FF69B4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-80%25-FF69B4?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-90%25-FF4500?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Flask-65%25-FF6347?style=for-the-badge&logo=flask&logoColor=white" />  
+  <img src="https://img.shields.io/badge/FastAPI-65%25-FF1493?style=for-the-badge&logo=fastapi&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Linux-60%25-FF8C00?style=for-the-badge&logo=linux&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Windows-70%25-DC143C?style=for-the-badge&logo=windows&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Hardware-80%25-8A2BE2?style=for-the-badge&logo=raspberrypi&logoColor=white" />  
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ---
 
-## 🔹 About Me
+## 🔥 About Me
 
 - Skilled in Python, Flask, FastAPI, Linux, Windows, and hardware systems  
 - Passionate about **solving challenging programming problems** 🧩  
@@ -37,5 +37,11 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saeed%20Beheshti-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-beheshti-073869287/)  
-[![Gmail](https://img.shields.io/badge/Gmail-saeed%40example.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeedbeheshti83@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/saeed-beheshti-073869287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saeed%20Beheshti-FF4500?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saeed@example.com">
+    <img src="https://img.shields.io/badge/Gmail-saeed%40example.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
