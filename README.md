@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm <span style="color:#FF4500;">Saeed Beheshti</span></h1>
-<h3 align="center">💻 Backend Developer | ⚡ Flask & FastAPI | 🐍 Python & Django | Problem Solver</h3>
+<h3 align="center">💻 Backend Developer |Problem Solver</h3>
 
 ---
 
